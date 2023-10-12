@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+ruby '3.2.2'
+
+gem 'redis'
+gem 'json'
+gem 'aws-sdk-secretsmanager'
+gem 'trailblazer-operation'
+gem 'open-weather-ruby-client'
+gem 'compass_point'

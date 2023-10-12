@@ -1,0 +1,4 @@
+functions/**/.bundle
+functions/**/vendor
+functions/**/*.zip
+.env
